@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sayed El-Magraby</h1>
 <h3 align="center">A Passionate AI Engineer | Exploring ML & Deep Learning from Egypt</h3>
 
-- 🌱 I’m currently learning **Deep learning , NLP , CV**
+- 🌱 I’m currently learning **Deep learning , NLP**
 
 - 📫 How to reach me **asa291169@gmail.com**
 
